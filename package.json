@@ -1,0 +1,31 @@
+{
+    "name": "cx-froala-editor",
+    "version": "0.1.0",
+    "description": "React Froala editor wrapped in Cx component",
+    "main": "./src/index.js",
+    "author": "Ognjen Stefanovic",
+    "license": "MIT",
+    "keywords": [
+       "froala",
+       "editor",
+       "wysiwyg",
+       "field",
+       "text",
+       "cx",
+       "cxjs"
+    ],
+    "files": [
+       "src"
+    ],
+    "dependencies": {
+        "react-froala-wysiwyg": "4.0.6"
+    },
+    "homepage": "https://github.com/ognjenst/cxjs-widget-froala-editor#readme",
+    "repository": {
+       "type": "git",
+       "url": "git+https://github.com/ognjenst/cxjs-widget-froala-editor.git"
+    },
+    "bugs": {
+       "url": "https://github.com/ognjenst/cxjs-widget-froala-editor/issues"
+    }
+ }

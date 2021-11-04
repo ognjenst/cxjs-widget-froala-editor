@@ -1,0 +1,1 @@
+# cxjs-widget-froala-editor

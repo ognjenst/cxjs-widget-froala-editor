@@ -45,8 +45,8 @@ export default class FroalaField extends Field {
 	}
 }
 
-ForalaField.prototype.baseClass = 'textfield';
-ForalaField.prototype.styled = true;
+FroalaEditor.prototype.baseClass = 'textfield';
+FroalaEditor.prototype.styled = true;
 FroalaEditor.prototype.tag = 'textarea';
 FroalaEditor.prototype.config = {
 	pluginsEnabled: [

@@ -1,6 +1,6 @@
 {
     "name": "cx-froala-editor",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "React Froala editor wrapped in Cx component",
     "main": "./src/index.js",
     "author": "Ognjen Stefanovic",

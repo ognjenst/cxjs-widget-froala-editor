@@ -18,7 +18,9 @@
        "src"
     ],
     "dependencies": {
-        "react-froala-wysiwyg": "4.0.6"
+        "react-froala-wysiwyg": "^4.0.6",
+        "cx": "^21.10.1"
+
     },
     "homepage": "https://github.com/ognjenst/cxjs-widget-froala-editor#readme",
     "repository": {
